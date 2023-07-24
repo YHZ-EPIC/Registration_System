@@ -29,7 +29,7 @@ You are open to take ideas from internet also.--->
             right:0px;
             bottom:0px;
             left:0px;
-    }
+        }
     </style>
 </head>
 
@@ -78,15 +78,6 @@ You are open to take ideas from internet also.--->
                     }
 
                     #u_reg_b{
-                        /* color:brown;
-                        border-radius: 2ch;
-                        border-color: green; */
-                        
-                        /* padding-top: 1rem;
-                        padding-bottom: 1rem; 
-                        padding-left: 1rem;
-                        padding-right: 1rem;  */
-
                         font-size: 1rem;
                         padding: 0.8em;
                         border-radius: 9999px;
@@ -114,16 +105,6 @@ You are open to take ideas from internet also.--->
                     echo "<p id='u_reg'> You are not Logged in <br> Continue to Explore :) </p>";
                 }
             ?>
-<!-- 
-            <br>
-            <br>
-
-            <a id='u_reg' href="../index.php">
-                <button id="u_reg_b">    
-                    Return to HomePage </button>
-            </a> -->
-        </div>
-        
         <style>
             .mydiv1{
                 height:auto;
@@ -171,27 +152,27 @@ You are open to take ideas from internet also.--->
                 </p>
                 
                 <ol>
-                    <li style="font-size: large;";">Super Saiyan</li>
+                    <li style="font-size: large;">Super Saiyan</li>
                     <br>
                     <img src="https://m-cdn.phonearena.com/images/article/129526-wide-two_1200/Google-Assistants-new-Easter-Egg-recreates-the-first-time-DBZs-Goku-became-a-Super-Saiyan.jpg" alt="Dragonball" width="500" height="250">
                     <br>
-                    <li style="font-size: large;";>Super Saiyan 2</li>
+                    <li style="font-size: large;">Super Saiyan 2</li>
                     <br>
                     <img src="https://videogamemods.com/fighterz/wp-content/uploads/sites/5/cmdm/167446/1540054644_20181020123701_1-1600x900.jpg" alt="Dragonball" width="500" height="250">
                     <br>
-                    <li style="font-size: large;";>Super Saiyan 3</li>
+                    <li style="font-size: large;">Super Saiyan 3</li>
                     <br>
                     <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/02/Super-Saiyan-3-Featured.jpg" alt="Dragonball" width="500" height="250">
                     <br>
-                    <li style="font-size: large;";>Super Saiyan Red</li>
+                    <li style="font-size: large;">Super Saiyan Red</li>
                     <br>
                     <img src="https://evedonusfilm.com/wp-content/uploads/2021/05/Super-Saiyan-God.jpg" alt="Dragonball" width="500" height="250">
                     <br>
-                    <li style="font-size: large;";>Super Saiyan Blue</li>
+                    <li style="font-size: large;">Super Saiyan Blue</li>
                     <br>
                     <img src="https://besthqwallpapers.com/Uploads/14-5-2018/52641/thumb2-super-saiyan-blue-fighter-dbs-super-saiyan-god-4k.jpg" alt="Dragonball" width="500" height="250">
                     <br>
-                    <li style="font-size: large;";>Ultra Instinct</li>
+                    <li style="font-size: large;">Ultra Instinct</li>
                     <br>
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxK9cZe9OXzFffBunXilBm_3wRjlhzUZ8RdKbt19oMrNOFRV23AyMv0y2SYiJW32STLA&usqp=CAU" alt="Dragonball" width="500" height="250">
                     <br>
