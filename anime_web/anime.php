@@ -9,7 +9,6 @@ You are open to take ideas from internet also.--->
 	session_start();
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -261,7 +260,7 @@ You are open to take ideas from internet also.--->
             <section>
                 <h3 style="margin-left: 3ch;"><b> --- ITS MOST FAMOUS Theme Song ---</b></h3>
                 <audio controls style="margin-left: 5ch;">
-                    <source src="_myresources/audio.mp3" type="audio/mpeg">
+                    <source src="assets/audio.mp3" type="audio/mpeg">
                   Your browser does not support the audio element.
                   </audio>
             </section>
@@ -273,7 +272,7 @@ You are open to take ideas from internet also.--->
                 <li style="margin-left: 3ch;"> Original Dragonball </li> <br>
                 
                 <video controls>
-                    <source src="_myresources/V1.mp4" type="video/mp4">
+                    <source src="assets/V1.mp4" type="video/mp4">
                     Your browser does not support the video element.
                 </video>
                 <br>
@@ -281,7 +280,7 @@ You are open to take ideas from internet also.--->
                 <li style="margin-left: 3ch;"> Dragonball Z </li> <br>
                 
                 <video controls>
-                    <source src="_myresources/V2.mp4" type="video/mp4">
+                    <source src="assets/V2.mp4" type="video/mp4">
                     Your browser does not support the video element.
                 </video>
                 <br>
@@ -289,7 +288,7 @@ You are open to take ideas from internet also.--->
                 <li style="margin-left: 3ch;"> Dragonball Super </li> <br>
                 
                 <video controls>
-                    <source src="_myresources/V3.mp4" type="video/mp4">
+                    <source src="assets/V3.mp4" type="video/mp4">
                     Your browser does not support the video element.
                 </video>
                 <br>
@@ -306,7 +305,7 @@ You are open to take ideas from internet also.--->
                    Wonna Test Your Knowledge ?
                </h1>
     
-               <a href="_myresources/form.html" style="margin-left: 15ch;" target="_blank"> <button style="font-size: large;"> <b> Click Here </b> </button> </a>
+               <a href="assets/form.html" style="margin-left: 15ch;" target="_blank"> <button style="font-size: large;"> <b> Click Here </b> </button> </a>
                <br>
                <br>
            </section>
