@@ -25,7 +25,7 @@ and MySQL is used as a Database.
 
 <ul>
 <li> 
-Once the installation is complete, open the Xampp Control Panel (you can find it in the installation directory or start menu).
+Once the installation is complete, open the Xampp Control Panel <br> (you can find it in the installation directory or start menu).
 </li>
 <br>
 <li>
@@ -49,7 +49,7 @@ After starting Apache and MySQL, check the status in the Xampp Control Panel. <b
 </li>
 <br>
 <li>
-You can also verify if the servers are running by opening your web browser and navigating to http://localhost/ - if you see the Xampp welcome page, it means Apache is working.
+You can also verify if the servers are running by opening your web browser and <br> navigating to http://localhost/ - if you see the Xampp welcome page, it means Apache is working.
 </li>
 </ul>
 
