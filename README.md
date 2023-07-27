@@ -53,7 +53,7 @@ You can also verify if the servers are running by opening your web browser and n
 
     Step 5: Create a New Folder for Your Website
 
-Create a new folder in the Xampp "htdocs" directory. By default, it is located at "C:\xampp\htdocs" on Windows, <br> "/Applications/XAMPP/htdocs" on macOS, and <br> "/opt/lampp/htdocs" on Linux. <br>
+Create a new folder in the Xampp "htdocs" directory. By default, it is located at <br> "C:\xampp\htdocs" on Windows, <br> "/Applications/XAMPP/htdocs" on macOS, and <br> "/opt/lampp/htdocs" on Linux. <br>
 
 Name the folder as you like; this will be the root folder for your website.
 
