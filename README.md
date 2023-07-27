@@ -4,8 +4,10 @@ A Simple Website created using HTML/CSS with \
 Registration System (Login/Signup) implemented using PHP \
 and MySQL is used as a Database.
 
-<b> Note : Website is not Responsive for Mobile Devices, <br>
-Use only on Large Screens for better experience. <b>
+<b> 
+    Note : Website is not Responsive for Mobile Devices,
+    Use only on Large Screens for better experience. 
+</b>
     
 ## Steps to Run
 
